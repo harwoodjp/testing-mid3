@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_css">
+    <sp_css action="INSERT_OR_UPDATE">
+        <css>p {&#13;
+	color: red;&#13;
+}</css>
+        <name>s1</name>
+        <sys_class_name>sp_css</sys_class_name>
+        <sys_created_by>justin.harwood</sys_created_by>
+        <sys_created_on>2019-11-20 20:53:08</sys_created_on>
+        <sys_id>cfbb2ba8db9588105dc970f5bf961979</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>s1</sys_name>
+        <sys_package display_value="justin 3" source="x_snc_justin_3">e27f6508db51081081b5f4eabf9619e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="justin 3">e27f6508db51081081b5f4eabf9619e8</sys_scope>
+        <sys_update_name>sp_css_cfbb2ba8db9588105dc970f5bf961979</sys_update_name>
+        <sys_updated_by>justin.harwood</sys_updated_by>
+        <sys_updated_on>2019-11-20 20:53:08</sys_updated_on>
+    </sp_css>
+</record_update>
