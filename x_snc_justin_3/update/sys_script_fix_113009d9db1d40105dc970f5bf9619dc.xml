@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <before>false</before>
+        <description>desc</description>
+        <flush_cache>false</flush_cache>
+        <name>fixscript2</name>
+        <record_for_rollback>false</record_for_rollback>
+        <run_once>true</run_once>
+        <script/>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>justin.harwood</sys_created_by>
+        <sys_created_on>2019-11-22 16:10:05</sys_created_on>
+        <sys_id>113009d9db1d40105dc970f5bf9619dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fixscript2</sys_name>
+        <sys_package display_value="justin 3" source="x_snc_justin_3">e27f6508db51081081b5f4eabf9619e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="justin 3">e27f6508db51081081b5f4eabf9619e8</sys_scope>
+        <sys_update_name>sys_script_fix_113009d9db1d40105dc970f5bf9619dc</sys_update_name>
+        <sys_updated_by>justin.harwood</sys_updated_by>
+        <sys_updated_on>2019-11-22 16:10:05</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>
